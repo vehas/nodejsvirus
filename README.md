@@ -9,3 +9,5 @@ https://github.com/hacksparrow/virus/blob/master/virus.js
 node.js virus infect every js  file 
 #how to secure
 https://groups.google.com/forum/#!topic/nodejs/Xp0CJxuJr2A
+image from 
+https://upload.wikimedia.org/wikipedia/commons/d/d5/Oncology_doctor_consults_with_patient.jpg
